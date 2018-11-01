@@ -1,0 +1,15 @@
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\bin\Debug\TipCalculator8000.exe.config
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\bin\Debug\TipCalculator8000.exe
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\bin\Debug\TipCalculator8000.pdb
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000.csprojAssemblyReference.cache
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\MainWindow.g.cs
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\App.g.cs
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000_MarkupCompile.cache
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000_MarkupCompile.lref
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\MainWindow.baml
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000.g.resources
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000.Properties.Resources.resources
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000.csproj.GenerateResource.cache
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000.csproj.CoreCompileInputs.cache
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000.exe
+C:\workspace\GitDemo\TipCalculator8000\TipCalculator8000\obj\Debug\TipCalculator8000.pdb
